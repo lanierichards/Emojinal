@@ -35,7 +35,7 @@
                                 <state key="normal" title="🥳"/>
                                 <connections>
                                     <action selector="partyEmoji:" destination="BYZ-38-t0r" eventType="touchUpInside" id="HUi-Lw-qpx"/>
-                                    <action selector="showMessageWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vAC-wC-whK"/>
+                                    <action selector="showMessageWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="GeW-vd-6yH"/>
                                 </connections>
                             </button>
                         </subviews>
